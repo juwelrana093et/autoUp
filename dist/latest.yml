@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: autoUp-Setup-1.0.0.exe
+    sha512: ZQSquIJV6QF89hivseDTMYfzL/2aQ0ER92Kh5WvKsaoQOaLnYZ5twPDVMzgf5IoIyAQJZ1GI2frKfSOS9BLMJw==
+    size: 60117846
+path: autoUp-Setup-1.0.0.exe
+sha512: ZQSquIJV6QF89hivseDTMYfzL/2aQ0ER92Kh5WvKsaoQOaLnYZ5twPDVMzgf5IoIyAQJZ1GI2frKfSOS9BLMJw==
+releaseDate: '2022-08-31T07:40:34.691Z'
